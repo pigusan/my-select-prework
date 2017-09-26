@@ -14,5 +14,4 @@ my_select(array1) do |element|
   if element.even?
     element
   end
-
 end
