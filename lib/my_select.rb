@@ -11,7 +11,7 @@ end
 array1 = [1, 2, 3, 4, 5, 6]
 
 my_select(array1) do |element|
-  if element.even?
+  if element.even? do
     element
   end
 end
